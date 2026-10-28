@@ -9,3 +9,5 @@ Ací registraré i publicaré els canvis d'un projecte.
 - Git: control de versions.
 - Docker: execució d'aplicacions a contenidors.
 - PostgreSQL: gestió de bases de dades relacionals.
+
+El meu objectiu és aprendre a treballar amb dades.
